@@ -1,2 +1,3 @@
-# MyPotfolio
-I had created my portfolio using React
+# Portfolio
+
+LINK: https://sandip-portfoliojs.netlify.app/
